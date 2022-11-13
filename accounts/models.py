@@ -57,7 +57,7 @@ class Account(AbstractBaseUser):
     USERNAME_FIELD = 'email'
     REQUIRED_FIELDS = ['username','first_name','last_name']
 
-    object = MyAccountManager()
+    objects = MyAccountManager()
 
     def __str__(self):  #Shows the object in the html template to show it prepopulated.
         return self.email
