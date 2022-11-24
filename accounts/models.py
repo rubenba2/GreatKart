@@ -73,4 +73,17 @@ class Account(AbstractBaseUser):
         return True
 
 
+class UserProfile(models.Model):
+    user = models.OneToOneField(Account, on_delete=models.CASCADE) #OneToOneField is like ForeignKey but it is unique. If you use foreign key, you could have multiple profiles for same user, so we want one unique profile for each user, not multiple profiles.
+    address_line_1 = models.CharField(blank=True, max_length=100)
+    address_line_2 = models.CharField(blank=True, max_length=100)
+    profile_picture = models.ImageField(blank=True, upload_to='userprofile') #Inside media folder, the userprofile folder will be created
+    city = models.CharField(blank=True, max_length=30)
+    state = models.CharField(blank=True, max_length=30)
+    country = models.CharField(blank=True, max_length=30)
 
+    def __str__(self):
+        return self.user.first_name
+
+    def __full_address__(self):
+        return f'{self.address_line_1} {self.address_line_2}'
