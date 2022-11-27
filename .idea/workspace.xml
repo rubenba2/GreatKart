@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca35a429-bad1-42f3-9acb-8442a79740ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.ebextentions/django.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ebextentions/django.config" beforeDir="false" afterPath="$PROJECT_DIR$/.ebextentions/django.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669554108388</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Lesson 124 - Halfway for deployment">
+      <created>1669584310845</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669584310847</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -225,6 +231,7 @@
     <MESSAGE value="Section 23 finished" />
     <MESSAGE value="Section 24 finished" />
     <MESSAGE value="Section 25 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 25 finished" />
+    <MESSAGE value="Lesson 124 - Halfway for deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 124 - Halfway for deployment" />
   </component>
 </project>
