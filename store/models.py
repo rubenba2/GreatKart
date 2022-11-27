@@ -79,3 +79,20 @@ class ReviewRating(models.Model):
 
     def __str__(self):
         return self.subject
+
+
+class ProductGallery(models.Model):
+    product = models.ForeignKey(Product, default=None, on_delete=models.CASCADE) #Attach this gallery to the product. Cascade means if the product is deleted, this gallery is also deleted.
+    image = models.ImageField(upload_to='store/products', max_length=255)
+
+    def __str__(self):
+        return self.product.product_name
+
+    class Meta: #makes the plural correct in the admin page.
+        verbose_name = 'productgallery'
+        verbose_name_plural = 'product gallery'
+
+
+
+
+
