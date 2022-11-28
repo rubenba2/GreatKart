@@ -1,251 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca35a429-bad1-42f3-9acb-8442a79740ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.ebextentions/django.config" beforeDir="false" afterPath="$PROJECT_DIR$/.ebextentions/django.config" afterDir="false" />
+    <list default="true" id="1c3694ab-7b2f-4df0-970f-70cc27f86318" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GreatKart.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2022_20_04_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2022_20_04__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2022_20_06_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2022_20_06__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greatkart/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/greatkart/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="2B2JijQjH18CEVYgiqLIYLz5XzI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2IBwVWN8BpRJ0mJqBj2pUmm26Cs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/.env" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/store" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Dell\Documents\Udemy-Django\RathanKumar\GreatKart\store" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Dell\Documents\Udemy-Django\RathanKumar\GreatKart" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ca35a429-bad1-42f3-9acb-8442a79740ac" name="Default Changelist" comment="" />
-      <created>1656098376278</created>
+      <changelist id="1c3694ab-7b2f-4df0-970f-70cc27f86318" name="Default Changelist" comment="" />
+      <created>1669668308817</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1656098376278</updated>
+      <updated>1669668308817</updated>
     </task>
-    <task id="LOCAL-00001" summary="Second attempt">
-      <created>1661106956341</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1661106956342</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Third attempt">
-      <created>1661107172465</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1661107172465</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Submission half way to ensure replicability">
-      <created>1662810030957</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1662810030957</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Submission lesson 62 completed">
-      <created>1663004312406</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1663004312407</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Resuming project after break sept-oct">
-      <created>1668191905247</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1668191905247</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Section 15 completed">
-      <created>1668347793642</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1668347793643</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Section 16 completed">
-      <created>1668458263161</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1668458263161</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Lecture 91 error">
-      <created>1668699541607</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1668699541608</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Lecture 93 completed">
-      <created>1668708996128</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1668708996128</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Section 19 completed">
-      <created>1668711305707</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1668711305707</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Lecture 99 - Starts not showing">
-      <created>1668788620930</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1668788620931</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Section21 finished">
-      <created>1669045178507</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1669045178507</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Section21 finished">
-      <created>1669045194169</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1669045194169</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Section 22 finished">
-      <created>1669142490432</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1669142490432</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Section 23 finished">
-      <created>1669320266157</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1669320266157</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Section 23 finished">
-      <created>1669320386993</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1669320386993</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Section 24 finished">
-      <created>1669544518597</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1669544518597</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Section 25 finished">
-      <created>1669554108388</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1669554108388</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Lesson 124 - Halfway for deployment">
-      <created>1669584310845</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1669584310847</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Lesson 124 - Halfway for deployment&#10;submit 2 - degraded potential fix 1">
-      <created>1669586338397</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1669586338397</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Lesson 124 - Halfway for deployment&#10;submit 2 - degraded potential fix 1">
-      <created>1669588765140</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1669588765140</updated>
-    </task>
-    <option name="localTasksCounter" value="22" />
     <servers />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Second attempt" />
-    <MESSAGE value="Third attempt" />
-    <MESSAGE value="Submission half way to ensure replicability" />
-    <MESSAGE value="Submission lesson 62 completed" />
-    <MESSAGE value="Resuming project after break sept-oct" />
-    <MESSAGE value="Section 15 completed" />
-    <MESSAGE value="Section 16 completed" />
-    <MESSAGE value="Lecture 91 error" />
-    <MESSAGE value="Lecture 93 completed" />
-    <MESSAGE value="Section 19 completed" />
-    <MESSAGE value="Lecture 99 - Starts not showing" />
-    <MESSAGE value="Section21 finished" />
-    <MESSAGE value="Section 22 finished" />
-    <MESSAGE value="Section 23 finished" />
-    <MESSAGE value="Section 24 finished" />
-    <MESSAGE value="Section 25 finished" />
-    <MESSAGE value="Lesson 124 - Halfway for deployment" />
-    <MESSAGE value="Lesson 124 - Halfway for deployment&#10;submit 2 - degraded potential fix 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 124 - Halfway for deployment&#10;submit 2 - degraded potential fix 1" />
   </component>
 </project>
