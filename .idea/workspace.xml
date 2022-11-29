@@ -1,55 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c3694ab-7b2f-4df0-970f-70cc27f86318" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.ebextensions/django.config" beforeDir="false" afterPath="$PROJECT_DIR$/.ebextensions/django.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GreatKart2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GreatKart2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1c3694ab-7b2f-4df0-970f-70cc27f86318" name="Default Changelist" comment="Django 4 Deployment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/Activate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/activate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/asadmin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/bundle_image" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/cfadmin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/cq" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/cwutil" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/deactivate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/django-admin.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/django-admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/dynamodb_dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/dynamodb_load" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/elbadmin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/ensemblebuilder" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/fab.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/fetch_file" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/glacier" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/gunicorn.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/instance_events" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/inv.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/invoke.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/kill_instance" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/launch_instance" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/list_instances" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/local-cname.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/lss3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/mturk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/normalizer.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/pip.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/pip3.10.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/pip3.11.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/pip3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/pyami_sendmail" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/python.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/pythonw.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/route53" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/s3put" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/sdbadmin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/sqlformat.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/taskadmin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/pyvenv.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greatkart/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/greatkart/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/RathanKumar/GreatKart/Scripts/activate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/autocomplete.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/css/autocomplete.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/changelists.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/css/changelists.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/css/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/nav_sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/css/nav_sidebar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/responsive_rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/css/responsive_rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/css/rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/css/widgets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/SelectBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/SelectBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/autocomplete.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/autocomplete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/calendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/cancel.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/cancel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/inlines.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/inlines.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/nav_sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/nav_sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/urlify.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/urlify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669673796195</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Django 4 Deployment">
+      <created>1669725140625</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669725140625</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -102,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Half way AWS EB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Half way AWS EB" />
+    <MESSAGE value="Django 4 Deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Django 4 Deployment" />
   </component>
 </project>
