@@ -26,7 +26,8 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG', default=True, cast=bool)
 
-ALLOWED_HOSTS = ['greatkart-course-env.eba-bjybbzb2.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = ['greatkart-course-env.eba-bjybbzb2.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
@@ -150,7 +151,7 @@ EMAIL_HOST_USER = config('EMAIL_HOST_USER')
 EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')
 EMAIL_USE_TLS = config('EMAIL_USE_TLS', cast=bool)
 
-
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 
 # Time out time
 # SESSION_EXPIRE_SECONDS = 15

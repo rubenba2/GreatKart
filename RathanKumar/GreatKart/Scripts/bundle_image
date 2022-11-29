@@ -1,4 +1,4 @@
-#!c:\users\dell\documents\udemy-django\rathankumar\greatkart2\rathankumar\greatkart\scripts\python.exe
+#!C:\Users\Dell\Documents\Udemy-Django\RathanKumar\GreatKart2\RathanKumar\GreatKart\Scripts\python.exe
 from boto.manage.server import Server
 if __name__ == "__main__":
     from optparse import OptionParser
