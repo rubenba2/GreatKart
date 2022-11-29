@@ -26,7 +26,7 @@ pathlib2==2.3.7.post1
 Pillow==9.2.0
 pipdeptree==2.3.3
 prettytable==3.5.0
-psycopg2-binary==2.9.5
+psycopg2-binary==2.8.5
 pycparser==2.21
 PyNaCl==1.5.0
 python-decouple==3.6
