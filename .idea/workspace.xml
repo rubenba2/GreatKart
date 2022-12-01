@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669902345550</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Django 4 Lecture 124 Need to add allowed host ip">
+      <created>1669903234531</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669903234531</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -110,6 +117,7 @@
     <MESSAGE value="Django 4 Postgres configuration - Add hosts error eb deploy" />
     <MESSAGE value="Django 4 Postgres configuration - Downgrade psycopg2 following question https://www.udemy.com/course/django-ecommerce-project-based-course-python-django-web-development/learn/lecture/25704022#questions/15534610" />
     <MESSAGE value="Django 4 Lecture 124 double quotations removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Django 4 Lecture 124 double quotations removed" />
+    <MESSAGE value="Django 4 Lecture 124 Need to add allowed host ip" />
+    <option name="LAST_COMMIT_MESSAGE" value="Django 4 Lecture 124 Need to add allowed host ip" />
   </component>
 </project>
