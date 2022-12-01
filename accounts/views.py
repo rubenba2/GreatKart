@@ -284,7 +284,7 @@ def change_password(request):
     return render(request, 'accounts/change_password.html')
 
 @login_required(login_url='login')
-def order_detail(request, order_id):
+def order_detail(request, order_id): #The order_id comes from the url of order_detail which includes the <int:order_id>
     order_detail = OrderProduct.objects.filter(order__order_number=order_id) #This underscore underscore access the fields of the foreign key model. So order_number in order model as order is the foreign key in the OrderProduct model.
     order = Order.objects.get(order_number=order_id)
 
